@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=orig\ x\ y
+comment1.target=javafx.geometry.Point2D\ move(javafx.geometry.Point2D,\ int,\ int)
+numComments=2
